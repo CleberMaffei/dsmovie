@@ -1,6 +1,8 @@
+import Navbar from "./Components/Navbar/Index";
+
 function App() {
   return (
-   <h1>Shazan Carai</h1> 
+   <Navbar />
   );
 }
 
