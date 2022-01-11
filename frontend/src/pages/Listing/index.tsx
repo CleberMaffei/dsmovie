@@ -1,7 +1,9 @@
+import Pagination from "Components/Pagination";
+
 function Listing () {
 
     return (
-        <h1>Zero da o Cú</h1>
+        <Pagination />
     );
 }
 
